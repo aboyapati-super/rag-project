@@ -1,0 +1,4 @@
+rag_env/
+vector_db/
+.env
+.DS_Store
